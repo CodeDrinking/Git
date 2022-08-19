@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 music is a nashaaa album.
+=======
+music is a nashaaa
+>>>>>>> music_player
